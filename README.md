@@ -9,13 +9,17 @@
                                           - 📫 How to reach me **brenondss@gmail.com**
 
 <h3 align="center">About me</h3>
+  Passionate gamer :joystick: and addicted to fantasy and science fiction books :open_book:. 
+
 <p align="left">
-I went through environmental engineering and computer engineering courses, and that's when I got in touch with programming. I changed my plans
-  and I moved to trybe.
+
+  Studied computer engineering for 2 years when i got in touch with programming and realize how fun and pleasure is for me to put great ideas into real solutions. That's where i changed my plans and I moved to trybe.
  
 **About trybe**
 
-Here at trybe I was taught about very rich values, learned to work as a team with agile methodologies, exercise creativity, innovation and abstract complex problems into practical solutions. I also learned soft skills about leadership, collaboration and negotiation, and also plenty more hard skills.
+**Where i became happy studying what i like :)**
+
+  Here at trybe I was taught about very rich values, learned to work as a team with agile methodologies, exercise creativity, innovation and abstract complex problems into practical solutions. I also learned soft skills about leadership, collaboration and negotiation, and also plenty more hard skills.
 </p>
 
 <h3 align="center">Connect with me:</h3>
