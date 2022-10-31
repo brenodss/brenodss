@@ -10,14 +10,13 @@
 
 <h3 align="center">About me</h3>
 <p align="left">
-  I went through environmental engineering and computer engineering courses, and that's when I got in touch with programming. I changed my plans and I moved to trybe
-  
-  **About trybe**
-  
-    Here at trybe I was taught about very rich values, I learned to work as a team with agile methodologies, exercise creativity, innovation and abstract complex problems into practical solutions. I also learned soft skills about leadership, collaboration and negotiation.
+I went through environmental engineering and computer engineering courses, and that's when I got in touch with programming. I changed my plans
+  and I moved to trybe.
+ 
+**About trybe**
 
+Here at trybe I was taught about very rich values, learned to work as a team with agile methodologies, exercise creativity, innovation and abstract complex problems into practical solutions. I also learned soft skills about leadership, collaboration and negotiation, and also plenty more hard skills.
 </p>
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
