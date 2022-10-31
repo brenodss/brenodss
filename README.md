@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript and POO**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react** / **Javascript**
 
 - 📫 How to reach me **brenondss@gmail.com**
 
