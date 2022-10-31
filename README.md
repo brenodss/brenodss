@@ -2,6 +2,8 @@
 <h3 align="center">I am a very curious person and i love learning new technologies.</h3>
 
 - 🌱 I’m currently learning **TypeScript and POO**
+- 🌱 I want to learn **python / GoLang / C++**
+
 
 - 💬 Ask me about **react** / **javascript**
 
