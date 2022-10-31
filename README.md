@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Breno Dias</h1>
 <h3 align="center">I am a very curious person and i love learning new technologies.</h3>
 
+- 🌱 I’m currently learning **TypeScript and POO**
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **brenondss@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/brenodss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brenodss/" height="30" width="40" /></a>
@@ -12,4 +18,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenodss&show_icons=true&locale=en&layout=compact" alt="brenodss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brenodss&" alt="brenodss" /></p>
-
