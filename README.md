@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Breno Dias</h1>
 <h3 align="center">I am a very curious person and i love learning new technologies.</h3>
 <p align="center">
-🌱 I’m currently learning <a href='' target=''> TypeScript and POO </a> <br />
-:star: I want to learn <a href='' target=''> python / GoLang / C++ </a> <br />
+🌱 I’m currently learning <a href='' target=''> Python </a> <br />
+:star: I want to learn <a href='' target=''> GoLang / C++ </a> <br />
 💬 Ask me about <a href='' target=''> react / javascript </a> <br />
   📫 How to reach me <a href='' target=''> brenondss@gmail.com </a>
 </p>
